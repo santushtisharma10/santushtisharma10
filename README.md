@@ -1,7 +1,7 @@
 # Hi there 👋😊 I am Santushti Sharma ✨✨
 
-I am a developer and and an open source lover.I am a sophomore 🤓📚 pursuing Bachelors in Technology 🎓 at Maharaja Agrasen Institute of Technology [MAIT] 🏫. I am currently into web development and DS Algo.
-I am a coder, a passionate learner. I have great enthusiasm towards learning and exploring new technology.I am a ML & AI enthusiast.
+I am a developer 💻 and and an open source lover💖. I am a sophomore 🤓📚 pursuing Bachelors in Technology 🎓 at Maharaja Agrasen Institute of Technology [MAIT] 🏫. I am currently into web development and DS Algo.
+I am a coder, a passionate learner 😎😎. I have great enthusiasm towards learning and exploring new technology 📱💻. I am a ML & AI enthusiast.
 
 <br>
 - 🔭 I’m currently working on web development projects<br>
@@ -30,6 +30,8 @@ I am a coder, a passionate learner. I have great enthusiasm towards learning and
 
 [![santushti's github stats](https://github-readme-stats.vercel.app/api?username=santushtisharma10&show_icons=true&theme=tokyonight)]()
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santushtisharma10)](https://github.com/santushtisharma10/github-readme-stats)
+-->
 ## Connect with me
 
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/santushti.sharma.9843)
