@@ -11,7 +11,7 @@ I am a coder, a passionate learner 😎😎. I have great enthusiasm towards lea
 - 💬 Ask me about anything related to competitive coding, I will help you with the best i can<br>
 - 📫 How to reach me: Can reach me via linkedin <br>
 - 😄 Pronouns: She/Her<br>
-- ⚡ Fun fact: <br>
+<!-- ⚡ Fun fact: <br>-->
 
 
 ## Languages and Tools
