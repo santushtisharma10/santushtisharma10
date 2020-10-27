@@ -1,4 +1,7 @@
 
+  <img  align="right" src= "hi.gif">
+
+
 # Hi there 👋😊 I am Santushti Sharma ✨✨
 <p align ="center">
 I am a developer 💻 and and an open source lover💖. I am a sophomore 🤓📚 pursuing Bachelors in Technology 🎓 at Maharaja Agrasen Institute of Technology [MAIT] 🏫. I am currently into web development and DS Algo.
