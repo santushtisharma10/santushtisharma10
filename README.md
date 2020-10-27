@@ -1,6 +1,3 @@
-<p align ="center">
-  <img width ="100%" src="https://tenor.com/view/box-hi-hello-kitten-cute-gif-14349965">
-</p>
 
 # Hi there 👋😊 I am Santushti Sharma ✨✨
 <p align ="center">
