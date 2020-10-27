@@ -46,3 +46,11 @@ I am a coder, a passionate learner 😎😎. I have great enthusiasm towards lea
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/SantushtiSharma)
 <br>
 <br>
+
+## Visitor's count
+
+![Visitor Count](https://profile-counter.glitch.me/{santushtisharma10}/count.svg)
+<br>
+<p align ="center">
+<img  align ="center" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
+</p>
