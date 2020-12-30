@@ -17,7 +17,7 @@ I am a coder, a passionate learner 😎😎. I have great enthusiasm towards lea
 <!-- ⚡ Fun fact: <br>-->
 
 
-## Languages and Tools
+## Tech Stack
 
 
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
@@ -28,6 +28,8 @@ I am a coder, a passionate learner 😎😎. I have great enthusiasm towards lea
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>]()
 <br>
 <br>
 <p align ="center" width = "100%">
