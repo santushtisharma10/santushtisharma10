@@ -3,8 +3,8 @@
 
 # Hi there 👋😊 I am Santushti Sharma ✨✨
 <p align ="center">
-I am a developer 💻 and and an open source lover💖. I am a sophomore 🤓📚 pursuing Bachelors in Technology 🎓 at Maharaja Agrasen Institute of Technology [MAIT] 🏫. I am currently into web development and DS Algo.
-I am a coder, a passionate learner 😎😎. I have great enthusiasm towards learning and exploring new technology 📱💻. I am a ML & AI enthusiast.
+  Developer 💻 and and an open source lover💖. Sophomore 🤓📚 pursuing Bachelors in Technology 🎓 at Maharaja Agrasen Institute of Technology [MAIT] 🏫. Currently into web development and DS Algo.
+Coder, a passionate learner 😎😎. I have great enthusiasm towards learning and exploring new technology 📱💻. 
 </p>
 <br>
 - 🔭 I’m currently working on web development projects<br>
