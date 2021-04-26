@@ -8,7 +8,7 @@ Coder, a passionate learner 😎😎. I have great enthusiasm towards learning a
 </p>
 <br>
 - 🔭 I’m currently working on web development projects<br>
-- 🌱 I’m currently learning ML & AI<br>
+<!-- 🌱 I’m currently learning ML & AI<br>-->
 <!-- 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything related to competitive coding, I will help you with the best i can<br>
