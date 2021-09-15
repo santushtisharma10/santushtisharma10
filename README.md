@@ -3,7 +3,7 @@
 
 # Hi there 👋😊 I am Santushti Sharma ✨✨
 <p align ="center">
-  Developer 💻 and and an open source lover💖. Sophomore 🤓📚 pursuing Bachelors in Technology 🎓 at Maharaja Agrasen Institute of Technology [MAIT] 🏫. Currently into web development and DS Algo.
+  Developer 💻 and and an open source lover💖. I am 🤓📚 pursuing Bachelors in Technology 🎓 at Maharaja Agrasen Institute of Technology [MAIT] 🏫. Currently into web development and DS Algo.
 Coder, a passionate learner 😎😎. I have great enthusiasm towards learning and exploring new technology 📱💻. 
 </p>
 <br>
@@ -11,7 +11,7 @@ Coder, a passionate learner 😎😎. I have great enthusiasm towards learning a
 <!-- 🌱 I’m currently learning ML & AI<br>-->
 <!-- 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...-->
-- 💬 Ask me about anything related to competitive coding, I will help you with the best i can<br>
+- 💬 Ask me about anything related to DSA, I will help you with the best i can<br>
 - 📫 How to reach me: Can reach me via linkedin <br>
 - 😄 Pronouns: She/Her<br>
 <!-- ⚡ Fun fact: <br>-->
