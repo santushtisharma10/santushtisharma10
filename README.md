@@ -48,10 +48,6 @@ Coder, a passionate learner 😎😎. I have great enthusiasm towards learning a
 <br>
 <br>
 
-## Visitor's count
-
-![Visitor Count](https://profile-counter.glitch.me/{santushtisharma10}/count.svg)
-<br>
 <p align ="center">
 <img  align ="center" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
 </p>
